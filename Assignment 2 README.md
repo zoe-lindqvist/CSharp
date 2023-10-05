@@ -1,4 +1,4 @@
-# Assignment 2: Sales Team Data Processor
+# Assignment 2: Sales Data Processor
 
 ## Overview:
 This program aims to gather, sort, and provide statistics for a sales team. The application is designed as either a Console Application, where users can input data about various salespersons and receive insights on sales figures.

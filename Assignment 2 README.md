@@ -35,7 +35,7 @@ This program aims to gather, sort, and provide statistics for a sales team. The 
         Sales Data Processor
 -----------------------------------------
 
-Enter number of salespeople to register: 3
+Enter the number of salespeople to register: 3
 
 --- Salesperson 1 ---
 Enter Name: Kalle Anka
@@ -47,13 +47,13 @@ Enter Number of Articles Sold: 173
 Enter Name: Musse Pigg
 Enter Personal Identification Number: 3502038964
 Enter District: Boden
-Enter Number of Articles Sold: 202
+Enter the Number of Articles Sold: 202
 
 --- Salesperson 3 ---
 Enter Name: Snobben
 Enter Personal Identification Number: 7805055673
 Enter District: Luleå
-Enter Number of Articles Sold: 203
+Enter the Number of Articles Sold: 203
 
 Processing data...
 
